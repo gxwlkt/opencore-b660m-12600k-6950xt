@@ -38,7 +38,7 @@
                     <key>Comment</key>
                     <string></string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Path</key>
                     <string>SSDT-6950XT-73A5-GPU-SPOOF.aml</string>
                 </dict>
